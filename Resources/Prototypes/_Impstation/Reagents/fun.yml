@@ -366,7 +366,7 @@
   metabolisms:
     Medicine:
       effects:
-      - !type:RemoveTheTag
+      - !type:RemoveOldTag
         removeTag: DomesticOffspring
         conditions:
         - !type:ReagentThreshold

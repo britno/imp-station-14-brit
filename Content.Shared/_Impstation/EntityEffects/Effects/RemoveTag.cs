@@ -8,7 +8,7 @@ using Robust.Shared.Utility;
 
 namespace Content.Shared._Impstation.EntityEffects.Effects;
 
-public sealed partial class RemoveTheTag : EntityEffect
+public sealed partial class RemoveOldTag : EntityEffect
 
 {
     [DataField]
